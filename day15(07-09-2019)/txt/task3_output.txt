@@ -1,0 +1,106 @@
+4is even
+3is odd
+5is odd
+7is odd
+1is odd
+3is odd
+7is odd
+8is even
+3is odd
+4is even
+6is even
+7is odd
+3is odd
+4is even
+5is odd
+6is even
+12is even
+56is even
+34is even
+67is odd
+89is odd
+34is even
+12is even
+56is even
+78is even
+34is even
+78is even
+45is odd
+12is even
+34is even
+56is even
+78is even
+34is even
+1is odd
+2is even
+3is odd
+4is even
+12is even
+3is odd
+4is even
+56is even
+78is even
+5is odd
+3is odd
+56is even
+687is odd
+9is odd
+890is even
+6is even
+5is odd
+3is odd
+56is even
+678is even
+4 is even
+3 is odd
+5 is odd
+7 is odd
+1 is odd
+3 is odd
+7 is odd
+8 is even
+3 is odd
+4 is even
+6 is even
+7 is odd
+3 is odd
+4 is even
+5 is odd
+6 is even
+12 is even
+56 is even
+34 is even
+67 is odd
+89 is odd
+34 is even
+12 is even
+56 is even
+78 is even
+34 is even
+78 is even
+45 is odd
+12 is even
+34 is even
+56 is even
+78 is even
+34 is even
+1 is odd
+2 is even
+3 is odd
+4 is even
+12 is even
+3 is odd
+4 is even
+56 is even
+78 is even
+5 is odd
+3 is odd
+56 is even
+687 is odd
+9 is odd
+890 is even
+6 is even
+5 is odd
+3 is odd
+56 is even
+678 is even
