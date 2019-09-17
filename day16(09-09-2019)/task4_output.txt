@@ -1,0 +1,4 @@
+no.of  students  got >35 are 13
+no.of  students  got >65 are 11
+no.of  students  got >75 are 8
+no.of  students  got >95 are 3
